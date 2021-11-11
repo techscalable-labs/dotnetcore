@@ -27,3 +27,4 @@ ENV ASPNETCORE_URLS http://*:8080
 # Run the web service on container startup.
 
 ENTRYPOINT ["dotnet", "HelloWorldAspNetCore.dll"]
+#end
